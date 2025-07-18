@@ -29,3 +29,8 @@ The goal of this project is to design a basic yet functional FIR filter, simulat
 - *Filter Type*: Low-pass (based on symmetric coefficients)
 - *Filter Order*: 4-tap (can be increased easily)
 - *Arithmetic*: Fixed-point signed 8-bit input, 16-bit output
+
+
+  Output-
+  <img width="1453" height="278" alt="image" src="https://github.com/user-attachments/assets/b69c6d8f-109d-4e0c-9a7e-1d226c2d605a" />
+
